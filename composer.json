@@ -1,0 +1,34 @@
+{
+    "name": "h-iranshahi/blochchain-based-wallet",
+    "description": "A wallet management package based on blockchain",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Iransh\\Wallet\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Iransh\\Wallet\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "h-iranshahi",
+            "email": "h.iranshahi67@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Iransh\\Wallet\\WalletServiceProvider"
+            ]
+        }
+    }
+}
