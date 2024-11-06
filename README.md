@@ -6,6 +6,19 @@ The **Wallet package** provides a robust API for managing user wallets within th
 
 ---
 
+## Installation
+
+To integrate the **Wallet** package into your Laravel project, follow these steps:
+
+### 1. Install the Package via Composer
+
+Install the **Wallet** package by running the following command in your Laravel project’s root directory:
+
+```bash
+composer require h-iranshahi/blockchain-based-wallet
+
+---
+
 ## Features
 
 - **User Authentication**: All operations require user authentication via Laravel Sanctum.
