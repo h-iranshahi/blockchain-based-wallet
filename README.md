@@ -16,7 +16,7 @@ Install the **Wallet** package by running the following command in your Laravel 
 
 ```bash
 composer require h-iranshahi/blockchain-based-wallet
-```bash
+```
 
 ---
 
