@@ -74,16 +74,6 @@ The Wallet package offers a secure and efficient method for users to manage thei
 
 ---
 
-## Getting Started
-
-To get started with the Wallet package, follow these steps:
-
-1. **Installation**:  
-2. **Configuration**:  
-3. **Usage**:  
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
